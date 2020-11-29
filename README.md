@@ -1,6 +1,6 @@
  # Project
 
-This is the *official* repo for our team, submiting to for the "Who Wants To Be A Hackionaire" Hackathon :smile:
+This is the *official* repo for our team, submitting to the "Who Wants To Be A Hackionaire" Hackathon :smile:
 
 ![alternate text](https://www.techiedelight.com/wp-content/uploads/2016/11/Snakes-And-Ladders-Problem.jpg)
 
