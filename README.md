@@ -8,7 +8,7 @@ This is the *official* repo for our team, submitting to the "Who Wants To Be A H
   
  We have built a "Snakes and Ladders" plus "Chess" board game.
  
- It is a multiplayer game that combine aspects of game mechanism from both, the traditional "Snakes and Ladders" and "Chess".
+ It is a multiplayer game that combine aspects of game mechanism from both traditional games, "Snakes and Ladders" and "Chess".
  
   # Game Rules
   
