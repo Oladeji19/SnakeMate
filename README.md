@@ -20,11 +20,10 @@ This is the *official* repo for our team, submitting to the "Who Wants To Be A H
       
     3.The following conditions are follwed by the various chess pieces:
         
-        a.A King can move forward or upward in direction, by one block. 
+        a.A King can move forward by one block irrespective of the number rolled by the dice.
         b.A Knight will move forward by three steps if the die rolled is 3,4 or 5. If the dice rolled is 6, 
           then it will move 6 steps, and if the dice is rolled lower than 3 then it will not move. 
         c.A Rook can move any number of steps forward in that particular row, and so it will move the number rolled by the dice.
-        d.A Pawn can only move one step forward, irrespective of the number rolled by the dice.
     
     4.If the player reaches the ladder, then he will transported to the top of that particular ladder.
     
