@@ -14,7 +14,7 @@ This is the *official* repo for our team, submitting to the "Who Wants To Be A H
   
  ```
     1.Once the player is on the board, he will roll the dice again and will be assigned a chess piece 
-      that may be a King, Knight, Rook or a Pawn.
+      that may be a King, Knight, or a Rook.
       
     2.When you roll a 6, you get an extra turn.
       
