@@ -33,5 +33,5 @@ This is the *official* repo for our team, submiting to for the "Who Wants To Be 
             
 # Setup Instructions:
 
-Python IDE
+Python IDE:
 You will need to install the Pygame package using 'pip install pygame'  
