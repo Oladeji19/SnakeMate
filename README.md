@@ -26,7 +26,7 @@ This is the *official* repo for our team, submitting to the "Who Wants To Be A H
         c.A Rook can move any number of steps forward in that particular row, and so it will move the number rolled by the die.
         d.A Pawn can only move one step forward, irrespective of the number rolled by the die.
     
-    4.If the player reaches the ladder, then he will transpoted to the top of that particular ladder.
+    4.If the player reaches the ladder, then he will transported to the top of that particular ladder.
     
     5.If the player encounters a snake, then he will be transported to the tail of the Snake.
     
