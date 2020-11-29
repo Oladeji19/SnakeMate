@@ -12,6 +12,7 @@ This is the *official* repo for our team, submiting to for the "Who Wants To Be 
  
   # Game Rules
   
+ ```
     1.Once the player is on the board, he will roll the dice again and will be assigned a chess piece 
       that may be a King, Knight, Rook or a Pawn.
       
@@ -30,8 +31,16 @@ This is the *official* repo for our team, submiting to for the "Who Wants To Be 
     5.If the player encounters a snake, then he will be transported to the tail of the Snake.
     
     6.The first Player to reach the top will be the winner.
+```
             
 # Setup Instructions:
 
-Python IDE:
-You will need to install the Pygame package using 'pip install pygame'  
+Python IDE
+You will need to install the Pygame package using `pip install -r requirements.txt`
+to run the game follow these commands in terminal
+
+```
+cd SnakeMate
+python 		SnakeMate.py
+
+```
