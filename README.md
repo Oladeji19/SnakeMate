@@ -12,7 +12,7 @@ This is the *official* repo for our team, submiting to for the "Who Wants To Be 
  
   # Game Rules
   
-  1.Once the player is on the board, he will roll the dice again and will be assigned a chess piece 
+    1.Once the player is on the board, he will roll the dice again and will be assigned a chess piece 
       that may be a King, Knight, Rook or a Pawn.
       
     2.When you roll a 6, you get an extra turn.
