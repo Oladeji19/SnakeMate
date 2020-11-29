@@ -41,6 +41,6 @@ to run the game follow these commands in terminal
 
 ```
 cd SnakeMate
-python 		SnakeMate.py
+python SnakeMate.py
 
 ```
