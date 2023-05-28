@@ -32,7 +32,7 @@ This is the *official* repo for our team, submitting to the "Who Wants To Be A H
     6.The first Player to reach the top will be the winner.
 ```
             
-# Setup Instructions:
+# Demo Setup Instructions:
 
 Python IDE
 You will need to install the Pygame package using `pip install -r requirements.txt`
